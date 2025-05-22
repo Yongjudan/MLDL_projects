@@ -8,4 +8,4 @@ __pycache__/
 # Ignore Data and large data
 *.csv
 *.xyz
-
+.DS_Store
