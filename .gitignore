@@ -5,7 +5,11 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore Data and large data
+# Large data
 *.csv
 *.xyz
 *.DS_Store
+*.fasta
+*.tsv
+*.txt
+*.obo
